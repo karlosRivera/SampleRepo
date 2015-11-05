@@ -1,0 +1,7 @@
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\SkypeCallTest\SkypeCallTest\bin\Debug\SkypeCallTest.exe
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\SkypeCallTest\SkypeCallTest\bin\Debug\SkypeCallTest.pdb
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\SkypeCallTest\SkypeCallTest\obj\x86\Debug\SkypeCallTest.Form1.resources
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\SkypeCallTest\SkypeCallTest\obj\x86\Debug\SkypeCallTest.Properties.Resources.resources
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\SkypeCallTest\SkypeCallTest\obj\x86\Debug\SkypeCallTest.csproj.GenerateResource.Cache
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\SkypeCallTest\SkypeCallTest\obj\x86\Debug\SkypeCallTest.exe
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\SkypeCallTest\SkypeCallTest\obj\x86\Debug\SkypeCallTest.pdb

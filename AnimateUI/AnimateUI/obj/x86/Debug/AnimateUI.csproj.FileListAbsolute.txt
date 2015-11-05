@@ -1,0 +1,8 @@
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\AnimateUI\AnimateUI\bin\Debug\AnimateUI.exe
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\AnimateUI\AnimateUI\bin\Debug\AnimateUI.pdb
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\AnimateUI\AnimateUI\obj\x86\Debug\AnimateUI.Form1.resources
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\AnimateUI\AnimateUI\obj\x86\Debug\AnimateUI.Properties.Resources.resources
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\AnimateUI\AnimateUI\obj\x86\Debug\AnimateUI.csproj.GenerateResource.Cache
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\AnimateUI\AnimateUI\obj\x86\Debug\AnimateUI.exe
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\AnimateUI\AnimateUI\obj\x86\Debug\AnimateUI.pdb
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\AnimateUI\AnimateUI\obj\x86\Debug\AnimateUI.csprojResolveAssemblyReference.cache

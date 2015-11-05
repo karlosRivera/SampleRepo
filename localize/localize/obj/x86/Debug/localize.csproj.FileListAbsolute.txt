@@ -1,0 +1,7 @@
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\localize\localize\bin\Debug\localize.exe
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\localize\localize\bin\Debug\localize.pdb
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\localize\localize\obj\x86\Debug\localize.Form1.resources
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\localize\localize\obj\x86\Debug\localize.Properties.Resources.resources
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\localize\localize\obj\x86\Debug\localize.csproj.GenerateResource.Cache
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\localize\localize\obj\x86\Debug\localize.exe
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\localize\localize\obj\x86\Debug\localize.pdb

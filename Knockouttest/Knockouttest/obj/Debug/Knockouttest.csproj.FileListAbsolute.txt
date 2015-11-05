@@ -1,0 +1,4 @@
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\Knockouttest\Knockouttest\bin\Knockouttest.dll
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\Knockouttest\Knockouttest\bin\Knockouttest.pdb
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\Knockouttest\Knockouttest\obj\Debug\Knockouttest.dll
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\Knockouttest\Knockouttest\obj\Debug\Knockouttest.pdb

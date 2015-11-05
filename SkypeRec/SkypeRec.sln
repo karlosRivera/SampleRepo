@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkypeRec", "SkypeRec\SkypeRec.csproj", "{EB9A0EEF-2434-4D95-A77D-C5867394A5F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB9A0EEF-2434-4D95-A77D-C5867394A5F9}.Debug|x86.ActiveCfg = Debug|x86
+		{EB9A0EEF-2434-4D95-A77D-C5867394A5F9}.Debug|x86.Build.0 = Debug|x86
+		{EB9A0EEF-2434-4D95-A77D-C5867394A5F9}.Release|x86.ActiveCfg = Release|x86
+		{EB9A0EEF-2434-4D95-A77D-C5867394A5F9}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

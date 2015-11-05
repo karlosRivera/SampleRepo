@@ -1,0 +1,10 @@
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\DGVirtualScroll\DGVirtualScroll\bin\Debug\DGVirtualScroll.exe
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\DGVirtualScroll\DGVirtualScroll\bin\Debug\DGVirtualScroll.pdb
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\DGVirtualScroll\DGVirtualScroll\obj\x86\Debug\DGVirtualScroll.Form1.resources
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\DGVirtualScroll\DGVirtualScroll\obj\x86\Debug\DGVirtualScroll.Properties.Resources.resources
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\DGVirtualScroll\DGVirtualScroll\obj\x86\Debug\DGVirtualScroll.csproj.GenerateResource.Cache
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\DGVirtualScroll\DGVirtualScroll\obj\x86\Debug\DGVirtualScroll.exe
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\DGVirtualScroll\DGVirtualScroll\obj\x86\Debug\DGVirtualScroll.pdb
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\DGVirtualScroll\DGVirtualScroll\obj\x86\Debug\ucDGVirtualScroll.ucVirtualScrollGrid.resources
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\DGVirtualScroll\DGVirtualScroll\obj\x86\Debug\DGVirtualScroll.Sample1.resources
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\DGVirtualScroll\DGVirtualScroll\obj\x86\Debug\DGVirtualScroll1.SPCaller.resources

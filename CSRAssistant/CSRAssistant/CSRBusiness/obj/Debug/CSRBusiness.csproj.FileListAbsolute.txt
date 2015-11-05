@@ -1,0 +1,11 @@
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\CSRBusiness\obj\Debug\CSRBusiness.csprojResolveAssemblyReference.cache
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\CSRBusiness\bin\Debug\CSRBusiness.dll
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\CSRBusiness\bin\Debug\CSRBusiness.pdb
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\CSRBusiness\bin\Debug\MetroFramework.dll
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\CSRBusiness\bin\Debug\MetroFramework.pdb
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\CSRBusiness\obj\Debug\CSRBusiness.dll
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\CSRBusiness\obj\Debug\CSRBusiness.pdb
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\CSRBusiness\bin\Debug\SqlHelper.dll
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\CSRBusiness\bin\Debug\SqlHelper.pdb
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\CSRBusiness\bin\Debug\MetroFramework.Design.dll
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\CSRBusiness\bin\Debug\MetroFramework.Design.pdb

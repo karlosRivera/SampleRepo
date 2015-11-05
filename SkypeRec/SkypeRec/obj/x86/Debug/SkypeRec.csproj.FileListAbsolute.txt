@@ -1,0 +1,8 @@
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\SkypeRec\SkypeRec\obj\x86\Debug\SkypeRec.Properties.Resources.resources
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\SkypeRec\SkypeRec\obj\x86\Debug\SkypeRec.csproj.GenerateResource.Cache
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\SkypeRec\SkypeRec\bin\Debug\SkypeRec.exe
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\SkypeRec\SkypeRec\bin\Debug\SkypeRec.pdb
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\SkypeRec\SkypeRec\obj\x86\Debug\SkypeRec.exe
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\SkypeRec\SkypeRec\obj\x86\Debug\SkypeRec.pdb
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\SkypeRec\SkypeRec\obj\x86\Debug\SkypeRec.csprojResolveAssemblyReference.cache
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\SkypeRec\SkypeRec\obj\x86\Debug\SkypeRec.Form1.resources

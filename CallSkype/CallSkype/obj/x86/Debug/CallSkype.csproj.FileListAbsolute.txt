@@ -1,0 +1,9 @@
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\CallSkype\CallSkype\bin\Debug\CallSkype.exe
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\CallSkype\CallSkype\bin\Debug\CallSkype.pdb
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\CallSkype\CallSkype\bin\Debug\Interop.SKYPE4COMLib.dll
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\CallSkype\CallSkype\obj\x86\Debug\CallSkype.csprojResolveAssemblyReference.cache
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\CallSkype\CallSkype\obj\x86\Debug\CallSkype.Form1.resources
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\CallSkype\CallSkype\obj\x86\Debug\CallSkype.Properties.Resources.resources
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\CallSkype\CallSkype\obj\x86\Debug\CallSkype.csproj.GenerateResource.Cache
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\CallSkype\CallSkype\obj\x86\Debug\CallSkype.exe
+c:\users\tridip.bbakolkata\documents\visual studio 2010\Projects\CallSkype\CallSkype\obj\x86\Debug\CallSkype.pdb

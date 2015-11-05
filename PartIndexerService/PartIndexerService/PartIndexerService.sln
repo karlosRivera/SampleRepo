@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartIndexerService", "PartIndexerService\PartIndexerService.csproj", "{51C98168-6354-489A-B278-D501BB67A31C}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PartIndexerSetup", "PartIndexerSetup\PartIndexerSetup.vdproj", "{3CFAFCE8-9113-40E5-94D6-BE820B2C03AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51C98168-6354-489A-B278-D501BB67A31C}.Debug|x86.ActiveCfg = Debug|x86
+		{51C98168-6354-489A-B278-D501BB67A31C}.Debug|x86.Build.0 = Debug|x86
+		{51C98168-6354-489A-B278-D501BB67A31C}.Release|x86.ActiveCfg = Release|x86
+		{51C98168-6354-489A-B278-D501BB67A31C}.Release|x86.Build.0 = Release|x86
+		{3CFAFCE8-9113-40E5-94D6-BE820B2C03AC}.Debug|x86.ActiveCfg = Debug
+		{3CFAFCE8-9113-40E5-94D6-BE820B2C03AC}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

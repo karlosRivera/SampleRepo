@@ -1,0 +1,13 @@
+C:\Users\tridip.BBAKOLKATA\Desktop\winforms-modernui\winforms-modernui-master\MetroFramework\bin\Debug\MetroFramework.dll
+C:\Users\tridip.BBAKOLKATA\Desktop\winforms-modernui\winforms-modernui-master\MetroFramework\bin\Debug\MetroFramework.pdb
+C:\Users\tridip.BBAKOLKATA\Desktop\winforms-modernui\winforms-modernui-master\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+C:\Users\tridip.BBAKOLKATA\Desktop\winforms-modernui\winforms-modernui-master\MetroFramework\obj\Debug\MetroFramework.dll
+C:\Users\tridip.BBAKOLKATA\Desktop\winforms-modernui\winforms-modernui-master\MetroFramework\obj\Debug\MetroFramework.pdb
+C:\Users\tridip.BBAKOLKATA\Desktop\winforms-modernui\winforms-modernui-master\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
+C:\Users\tridip.BBAKOLKATA\Desktop\winforms-modernui\winforms-modernui-master\MetroFramework\obj\Debug\MetroFramework.csprojResolveAssemblyReference.cache
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\MetroFramework\obj\Debug\MetroFramework.Properties.Resources.resources
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\MetroFramework\obj\Debug\MetroFramework.csproj.GenerateResource.Cache
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\MetroFramework\bin\Debug\MetroFramework.dll
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\MetroFramework\bin\Debug\MetroFramework.pdb
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\MetroFramework\obj\Debug\MetroFramework.dll
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\MetroFramework\obj\Debug\MetroFramework.pdb

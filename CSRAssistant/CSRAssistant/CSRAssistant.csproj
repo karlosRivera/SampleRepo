@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2323DBF7-6CCD-4D3F-AD91-DA0BDB630D56}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CSRAssistant</RootNamespace>
+    <AssemblyName>CSRAssistant</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="Interop.Excel">
+      <HintPath>E:\Backup-021213\Document\Documents\Visual Studio 2010\Projects\OURFeedback\OURFeedback\bin\Debug\Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Interop.Microsoft.Office.Core">
+      <HintPath>E:\Backup-021213\Document\Documents\Visual Studio 2010\Projects\OURFeedback\OURFeedback\bin\Debug\Interop.Microsoft.Office.Core.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Interop.SKYPE4COMLib">
+      <HintPath>..\..\CallSkype\CallSkype\bin\Debug\Interop.SKYPE4COMLib.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Interop.VBIDE">
+      <HintPath>E:\Backup-021213\Document\Documents\Visual Studio 2010\Projects\OURFeedback\OURFeedback\bin\Debug\Interop.VBIDE.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="OutlookGridControl">
+      <HintPath>E:\Backup-021213\Document\Documents\Visual Studio 2010\Projects\DebtorCallAssistance_latest2008\DebtorCallAssistance_latest2008\bin\Debug\OutlookGridControl.dll</HintPath>
+    </Reference>
+    <Reference Include="PagerControl">
+      <HintPath>E:\Backup-021213\Document\Documents\Visual Studio 2010\Projects\OURFeedback\OURFeedback\bin\Debug\PagerControl.dll</HintPath>
+    </Reference>
+    <Reference Include="PopupControl">
+      <HintPath>..\..\..\..\..\Desktop\skype\simplepopup\SimplePopup\src\PopupControl\bin\Debug\PopupControl.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmCallAssistant.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCallAssistant.Designer.cs">
+      <DependentUpon>frmCallAssistant.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCallStat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCallStat.Designer.cs">
+      <DependentUpon>frmCallStat.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmComments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmComments.designer.cs">
+      <DependentUpon>frmComments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOURFeedBack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOURFeedBack.Designer.cs">
+      <DependentUpon>frmOURFeedBack.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MaskedDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="frmWaitForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmWaitForm.Designer.cs">
+      <DependentUpon>frmWaitForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\Settings.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControls\Settings.Designer.cs">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="frmCallAssistant.resx">
+      <DependentUpon>frmCallAssistant.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCallStat.resx">
+      <DependentUpon>frmCallStat.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmComments.resx">
+      <DependentUpon>frmComments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOURFeedBack.resx">
+      <DependentUpon>frmOURFeedBack.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MaskedDialog.resx">
+      <DependentUpon>MaskedDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="frmWaitForm.resx">
+      <DependentUpon>frmWaitForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControls\Settings.resx">
+      <DependentUpon>Settings.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CSRBusiness\CSRBusiness.csproj">
+      <Project>{391FEC4B-0300-46B3-B552-3FA15A8348BD}</Project>
+      <Name>CSRBusiness</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MetroFramework.Design\MetroFramework.Design.csproj">
+      <Project>{7316584D-9A16-4280-A8AB-6D45198C6E4D}</Project>
+      <Name>MetroFramework.Design</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MetroFramework.Fonts\MetroFramework.Fonts.csproj">
+      <Project>{5A2FCAE8-C2FA-41BD-90EA-16103EA07B26}</Project>
+      <Name>MetroFramework.Fonts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MetroFramework\MetroFramework.csproj">
+      <Project>{BB41AC8B-CBED-4387-A7E0-4567EDB3F57F}</Project>
+      <Name>MetroFramework</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\theme.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\theme1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\style.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\part.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\part1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\part2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\call3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\part3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login1.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ca.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\es.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fr.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\germany.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\it.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\uk.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\us.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\progress_bar.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loader.GIF" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Setting-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Setting-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\call stat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\call stat1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sound.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Lame\lame.exe" />
+    <Content Include="Lame\lame_enc.dll" />
+    <Content Include="Sox\libgomp-1.dll" />
+    <Content Include="Sox\pthreadgc2.dll" />
+    <Content Include="Sox\sox.exe" />
+    <Content Include="Sox\zlib1.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

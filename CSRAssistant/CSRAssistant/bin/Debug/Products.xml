@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metroStyleManager>
+  <Style>Orange</Style>
+  <Theme>Light</Theme>
+  <Owner>CSRAssistant.frmMain, Text:  CSR Assistant</Owner>
+  <Site>System.ComponentModel.Container+Site</Site>
+  <Container>System.ComponentModel.Container</Container>
+</metroStyleManager>

@@ -1,0 +1,24 @@
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\PartIndexer\PartIndexer\bin\Debug\PartIndexer.exe
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\PartIndexer\PartIndexer\bin\Debug\PartIndexer.pdb
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\PartIndexer\PartIndexer\obj\x86\Debug\PartIndexer.frmPartIndex.resources
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\PartIndexer\PartIndexer\obj\x86\Debug\PartIndexer.Properties.Resources.resources
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\PartIndexer\PartIndexer\obj\x86\Debug\PartIndexer.csproj.GenerateResource.Cache
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\PartIndexer\PartIndexer\obj\x86\Debug\PartIndexer.exe
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\PartIndexer\PartIndexer\obj\x86\Debug\PartIndexer.pdb
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\PartIndexer\PartIndexer\bin\Debug\PartIndexer.exe.config
+C:\Users\tridip.BBAKOLKATA\Documents\GitHub\PartIndexer\PartIndexer\bin\Debug\PartIndexer.exe.config
+C:\Users\tridip.BBAKOLKATA\Documents\GitHub\PartIndexer\PartIndexer\obj\x86\Debug\PartIndexer.exe
+C:\Users\tridip.BBAKOLKATA\Documents\GitHub\PartIndexer\PartIndexer\obj\x86\Debug\PartIndexer.pdb
+C:\Users\tridip.BBAKOLKATA\Documents\GitHub\PartIndexer\PartIndexer\bin\Debug\PartIndexer.exe
+C:\Users\tridip.BBAKOLKATA\Documents\GitHub\PartIndexer\PartIndexer\bin\Debug\PartIndexer.pdb
+C:\Users\tridip.BBAKOLKATA\Documents\GitHub\PartIndexer\PartIndexer\obj\x86\Debug\PartIndexer.frmPartIndex.resources
+C:\Users\tridip.BBAKOLKATA\Documents\GitHub\PartIndexer\PartIndexer\obj\x86\Debug\PartIndexer.Properties.Resources.resources
+C:\Users\tridip.BBAKOLKATA\Documents\GitHub\PartIndexer\PartIndexer\obj\x86\Debug\PartIndexer.csproj.GenerateResource.Cache
+D:\GitHub\PartIndexer\PartIndexer\bin\Debug\PartIndexer.exe.config
+D:\GitHub\PartIndexer\PartIndexer\obj\x86\Debug\PartIndexer.exe
+D:\GitHub\PartIndexer\PartIndexer\obj\x86\Debug\PartIndexer.pdb
+D:\GitHub\PartIndexer\PartIndexer\bin\Debug\PartIndexer.exe
+D:\GitHub\PartIndexer\PartIndexer\bin\Debug\PartIndexer.pdb
+D:\GitHub\PartIndexer\PartIndexer\obj\x86\Debug\PartIndexer.frmPartIndex.resources
+D:\GitHub\PartIndexer\PartIndexer\obj\x86\Debug\PartIndexer.Properties.Resources.resources
+D:\GitHub\PartIndexer\PartIndexer\obj\x86\Debug\PartIndexer.csproj.GenerateResource.Cache

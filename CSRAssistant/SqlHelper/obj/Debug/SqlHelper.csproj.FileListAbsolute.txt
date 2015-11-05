@@ -1,0 +1,4 @@
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\SqlHelper\bin\Debug\SqlHelper.dll
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\SqlHelper\bin\Debug\SqlHelper.pdb
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\SqlHelper\obj\Debug\SqlHelper.dll
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\SqlHelper\obj\Debug\SqlHelper.pdb

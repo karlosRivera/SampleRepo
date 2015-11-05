@@ -1,0 +1,8 @@
+C:\Users\tridip.BBAKOLKATA\Desktop\skype\simplepopup\SimplePopup\src\PopupControl\bin\Debug\PopupControl.dll
+C:\Users\tridip.BBAKOLKATA\Desktop\skype\simplepopup\SimplePopup\src\PopupControl\bin\Debug\PopupControl.pdb
+C:\Users\tridip.BBAKOLKATA\Desktop\skype\simplepopup\SimplePopup\src\PopupControl\obj\Debug\PopupControl.dll
+C:\Users\tridip.BBAKOLKATA\Desktop\skype\simplepopup\SimplePopup\src\PopupControl\obj\Debug\PopupControl.pdb
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\PopupControl\bin\Debug\PopupControl.dll
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\PopupControl\bin\Debug\PopupControl.pdb
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\PopupControl\obj\Debug\PopupControl.dll
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\CSRAssistant\PopupControl\obj\Debug\PopupControl.pdb
