@@ -1,0 +1,18 @@
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\PartIndexerService\PartIndexerService\bin\Release\PartIndexerService.exe.config
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\PartIndexerService\PartIndexerService\bin\Release\PartIndexerService.exe
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\PartIndexerService\PartIndexerService\bin\Release\PartIndexerService.XmlSerializers.dll
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\PartIndexerService\PartIndexerService\bin\Release\PartIndexerService.pdb
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\PartIndexerService\PartIndexerService\obj\x86\Release\PartIndexerService.PartIndexer.resources
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\PartIndexerService\PartIndexerService\obj\x86\Release\PartIndexerService.ProjectInstaller.resources
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\PartIndexerService\PartIndexerService\obj\x86\Release\PartIndexerService.csproj.GenerateResource.Cache
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\PartIndexerService\PartIndexerService\obj\x86\Release\PartIndexerService.exe
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\PartIndexerService\PartIndexerService\obj\x86\Release\PartIndexerService.pdb
+C:\Users\tridip.BBAKOLKATA\Documents\Visual Studio 2010\Projects\PartIndexerService\PartIndexerService\obj\x86\Release\PartIndexerService.XmlSerializers.dll
+C:\Users\tridip.BBAKOLKATA\Desktop\PartIndexerService\PartIndexerService\PartIndexerService\bin\Release\PartIndexerService.exe.config
+C:\Users\tridip.BBAKOLKATA\Desktop\PartIndexerService\PartIndexerService\PartIndexerService\bin\Release\PartIndexerService.exe
+C:\Users\tridip.BBAKOLKATA\Desktop\PartIndexerService\PartIndexerService\PartIndexerService\bin\Release\PartIndexerService.pdb
+C:\Users\tridip.BBAKOLKATA\Desktop\PartIndexerService\PartIndexerService\PartIndexerService\obj\x86\Release\PartIndexerService.PartIndexer.resources
+C:\Users\tridip.BBAKOLKATA\Desktop\PartIndexerService\PartIndexerService\PartIndexerService\obj\x86\Release\PartIndexerService.ProjectInstaller.resources
+C:\Users\tridip.BBAKOLKATA\Desktop\PartIndexerService\PartIndexerService\PartIndexerService\obj\x86\Release\PartIndexerService.csproj.GenerateResource.Cache
+C:\Users\tridip.BBAKOLKATA\Desktop\PartIndexerService\PartIndexerService\PartIndexerService\obj\x86\Release\PartIndexerService.exe
+C:\Users\tridip.BBAKOLKATA\Desktop\PartIndexerService\PartIndexerService\PartIndexerService\obj\x86\Release\PartIndexerService.pdb

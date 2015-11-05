@@ -1,0 +1,48 @@
+﻿<LogInfo>
+  <Time>06-May-15 6:46:39 PM</Time>
+  <Info>PartIndexer Service OnStart called start</Info>
+</LogInfo>
+<LogInfo>
+  <Time>06-May-15 6:46:43 PM</Time>
+  <Info>PartIndexer Service OnStart called end</Info>
+</LogInfo>
+<LogInfo>
+  <Time>06-May-15 6:47:58 PM</Time>
+  <Info>PartIndexer Service OnStart called start</Info>
+</LogInfo>
+<LogInfo>
+  <Time>06-May-15 6:48:01 PM</Time>
+  <Info>PartIndexer Service OnStart called end</Info>
+</LogInfo>
+<LogInfo>
+  <Time>06-May-15 6:49:28 PM</Time>
+  <Info>HasDataChanged data change found</Info>
+</LogInfo>
+<LogInfo>
+  <Time>06-May-15 6:49:30 PM</Time>
+  <Info>PartIndexer Service StartIndex called start</Info>
+</LogInfo>
+<LogInfo>
+  <Time>06-May-15 6:50:16 PM</Time>
+  <Info>PartIndexer Service StartIndex called end</Info>
+</LogInfo>
+<LogInfo>
+  <Time>06-May-15 6:50:39 PM</Time>
+  <Info>ResetDBFlag DB flag updated</Info>
+</LogInfo>
+<LogInfo>
+  <Time>06-May-15 6:51:56 PM</Time>
+  <Info>HasDataChanged data change found</Info>
+</LogInfo>
+<LogInfo>
+  <Time>06-May-15 6:52:02 PM</Time>
+  <Info>PartIndexer Service StartIndex called start</Info>
+</LogInfo>
+<LogInfo>
+  <Time>06-May-15 6:52:27 PM</Time>
+  <Info>PartIndexer Service StartIndex called end</Info>
+</LogInfo>
+<LogInfo>
+  <Time>06-May-15 6:52:59 PM</Time>
+  <Info>ResetDBFlag DB flag updated</Info>
+</LogInfo>
