@@ -1,0 +1,367 @@
+webgrid dynamic column demo
+
+ 
+
+Controller code
+
+-------------------
+
+public class HomeController : Controller
+
+    {
+
+ 
+
+        public ActionResult Index()
+
+        {
+
+            DataTable dt = new DataTable();
+
+            dt.Columns.Add("Section", typeof(string));
+
+            dt.Columns.Add("Q1", typeof(string));
+
+            dt.Columns.Add("Q2", typeof(string));
+
+            dt.Columns.Add("Q3", typeof(string));
+
+            dt.Columns.Add("Q4", typeof(string));
+
+            dt.Columns.Add("FY1", typeof(string));
+
+            dt.Columns.Add("FYCheck1", typeof(string));
+
+ 
+
+            dt.Columns.Add("Q5", typeof(string));
+
+            dt.Columns.Add("Q6", typeof(string));
+
+            dt.Columns.Add("Q7", typeof(string));
+
+            dt.Columns.Add("Q8", typeof(string));
+
+            dt.Columns.Add("FY2", typeof(string));
+
+            dt.Columns.Add("FYCheck2", typeof(string));
+
+ 
+
+            dt.Rows.Add(new Object[]{
+
+                "Section",
+
+                "1Q 2010",
+
+                "2Q 2010",
+
+                "3Q 2010",
+
+                "4Q 2010",
+
+                "2010 FY",
+
+                "2010 FYCheck",
+
+ 
+
+                "1Q 2011",
+
+                "2Q 2011",
+
+                "3Q 2011",
+
+                "4Q 2011",
+
+                "2011 FY",
+
+                "2011 FYCheck",
+
+            });
+
+ 
+
+            dt.Rows.Add(new Object[]{
+
+                "Consensus Model",
+
+                "22.31",
+
+                "20.11",
+
+                "55.60",
+
+                "78.11",
+
+                "10.12",
+
+                "11.11",
+
+ 
+
+                "99.13",
+
+                "45.20",
+
+                "77.30",
+
+                "45.11",
+
+                "41.78",
+
+                "98.10",
+
+            });
+
+ 
+
+            dt.Rows.Add(new Object[]{
+
+                "Operational Metrics",
+
+                "22.31",
+
+                "20.11",
+
+                "55.60",
+
+                "78.11",
+
+                "10.12",
+
+                "11.11",
+
+ 
+
+                "99.13",
+
+                "45.20",
+
+                "77.30",
+
+                "45.11",
+
+                "41.78",
+
+                "98.10",
+
+            });
+
+ 
+
+            dt.Rows.Add(new Object[]{
+
+                "Key Financials",
+
+                "22.31",
+
+                "20.11",
+
+                "55.60",
+
+                "78.11",
+
+                "10.12",
+
+                "11.11",
+
+ 
+
+                "99.13",
+
+                "45.20",
+
+                "77.30",
+
+                "45.11",
+
+                "41.78",
+
+                "98.10",
+
+            });
+
+ 
+
+            List<WebGridColumn> columns = new List<WebGridColumn>();
+
+            foreach (DataColumn col in dt.Columns)
+
+            {
+
+                columns.Add(new WebGridColumn()
+
+                {
+
+                    ColumnName = col.ColumnName,
+
+                    Header = col.ColumnName
+
+                });
+
+            }
+
+ 
+
+            ViewBag.Columns = columns;
+
+ 
+
+            //Converting datatable to dynamic list    
+
+            var dns = new List<dynamic>();
+
+            dns = ConvertDatatableToList(dt);
+
+            ViewBag.Total = dns; 
+
+ 
+
+            return View();
+
+        }
+
+ 
+
+        public List<dynamic> ConvertDatatableToList(DataTable dt)
+
+        {
+
+            var data = new List<dynamic>();
+
+            foreach (var item in dt.AsEnumerable())
+
+            {
+
+                // Expando objects are IDictionary<string, object> 
+
+                IDictionary<string, object> dn = new ExpandoObject();
+
+ 
+
+                foreach (var column in dt.Columns.Cast<DataColumn>())
+
+                {
+
+                    dn[column.ColumnName] = item[column];
+
+                }
+
+ 
+
+                data.Add(dn);
+
+            }
+
+            return data;
+
+        }  
+
+    }
+
+   
+
+    HTML portion
+
+    ------------------
+
+@model System.Data.DataTable
+
+@using System.Data
+
+ 
+
+@{
+
+    ViewBag.Title = "Home Page";
+
+}
+
+ 
+
+<style>
+
+table 
+
+    { 
+
+        font-family: verdana,arial,sans-serif; 
+
+        font-size: 11px; 
+
+        color: #333333; 
+
+        border-width: 1px; 
+
+        border-color: #999999; 
+
+        border-collapse: collapse; 
+
+        width: 80% !important; 
+
+        max-width: 80% !important;     
+
+    } 
+
+    table th 
+
+    { 
+
+        background: #b5cfd2; 
+
+        border-width: 1px; 
+
+        padding: 8px; 
+
+        border-style: solid; 
+
+        border-color: #999999; 
+
+    } 
+
+    table td 
+
+    { 
+
+        background: #dcddc0; 
+
+        border-width: 1px; 
+
+        padding: 8px; 
+
+        border-style: solid; 
+
+        border-color: #999999; 
+
+    } 
+
+    .foot 
+
+    { 
+
+        text-align: center; 
+
+    } 
+
+</style>
+
+ 
+
+@{
+
+    List<dynamic> obj1 = new List<dynamic>();
+
+    obj1 = ViewBag.Total;
+
+    var grid = new WebGrid(obj1);      
+
+}
+
+ 
+
+<br /><br /><br />
+
+@*displayHeader: false hide header*@
+
+@grid.GetHtml(displayHeader: false, columns: ViewBag.Columns, tableStyle: "table", footerStyle: "foot")
